@@ -4,13 +4,13 @@ title: Snore Snagger – Privacy Policy
 
 # Snore Snagger – Privacy Policy
 
-Last updated: 6 November 2026
+Last updated: 12 November 2026
 
 Snore Snagger is an iPhone app that records your night with the microphone, finds snoring in the recording and shows a Snore score, a graph of the night and short snoring clips. It is made by Andreas Schweikert, an individual developer in Zurich, Switzerland ("I" below).
 
 ## In short
 
-Recording and analysis happen on your iPhone. Snore Snagger has no account, no server, no analytics and no advertising. Snore Snagger does not automatically upload recordings or clips. Sharing a report sends its included audio to the recipients you choose.
+Recording and analysis happen on your iPhone. Snore Snagger has no account, no server, no analytics service and no advertising. Snore Snagger does not automatically upload recordings or clips. Sharing a report sends its included audio to the recipients you choose.
 
 ## What the app records and keeps
 
@@ -20,7 +20,9 @@ The app analyses the recording on your iPhone and keeps the night's result there
 
 By default, the full recording is deleted once the result and clips are saved and checked. In Settings you can choose to keep full recordings; they then stay on your iPhone. If an analysis fails or is cancelled, the recording stays until you try again or delete the night.
 
-You can delete a night at any time; this removes its recording, result and clips. Deleting the app removes everything it stored. The app's recordings and nights are not included in iCloud or computer backups.
+The app also keeps some technical files on your iPhone: details of each night's analysis (for example its scores and a log of the recording), a diagnostic log, and the crash and performance reports that iOS gives the app (Apple's MetricKit), which are deleted after 60 days. The diagnostic log holds no audio and no scores, but it keeps a line for each night's recording and analysis, also after that night is deleted. The app does not send any of these files anywhere.
+
+You can delete a night, except while it is being recorded, analysed, saved, shared or played; this removes its recording, result, clips and details. Deleting the app removes everything it stored. The app's recordings and nights are not included in iCloud or computer backups; its diagnostic log and reports may be.
 
 ## Sharing a report
 
